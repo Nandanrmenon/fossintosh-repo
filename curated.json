@@ -13,7 +13,7 @@
     {
       "id": "creativity",
       "title": "Explore your creativity",
-      "appIds": ["blender", "inkscape", "gimp", "blender"]
+      "appIds": ["blender", "inkscape", "gimp"]
     }
   ]
 }
