@@ -1,0 +1,16 @@
+{
+    "id": "vlc",
+    "name": "VLC Media Player",
+    "description": "Free and open source cross-platform multimedia player",
+    "version": "3.0.23",
+    "category": "Media",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/250px-VLC_Icon.svg.png",
+    "downloadUrl": "https://get.videolan.org/vlc/3.0.23/macosx/vlc-3.0.23-arm64.dmg",
+    "homepage": "https://www.videolan.org",
+    "license": "GPL-2.0",
+    "author": "VideoLAN Organization",
+    "screenshots": [
+        "https://www.videolan.org/images/screenshot1.png",
+        "https://www.videolan.org/images/screenshot2.png"
+    ]
+}

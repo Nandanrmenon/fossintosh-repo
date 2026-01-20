@@ -1,0 +1,15 @@
+{
+    "id": "inkscape",
+    "name": "Inkscape",
+    "description": "Free and open source vector graphics editor",
+    "version": "1.2.2",
+    "category": "Graphics",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/2048px-Inkscape_Logo.svg.png",
+    "downloadUrl": "https://mirror.example.com/inkscape-1.2.2.dmg",
+    "homepage": "https://inkscape.org",
+    "license": "GPL-3.0",
+    "author": "Inkscape Team",
+    "screenshots": [
+      "https://inkscape.org/screenshot1.png"
+    ]
+}

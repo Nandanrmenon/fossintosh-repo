@@ -1,0 +1,15 @@
+{
+    "id": "firefox",
+    "name": "Firefox",
+    "description": "Free and open source web browser",
+    "version": "120.0",
+    "category": "Internet",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg",
+    "downloadUrl": "https://mirror.example.com/firefox-120.0.dmg",
+    "homepage": "https://www.mozilla.org/firefox",
+    "license": "MPL-2.0",
+    "author": "Mozilla Foundation",
+    "screenshots": [
+      "https://www.mozilla.org/screenshot1.png"
+    ]
+}

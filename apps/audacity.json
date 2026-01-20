@@ -1,0 +1,15 @@
+{
+    "id": "audacity",
+    "name": "Audacity",
+    "description": "Free, open source, cross-platform audio software for recording and editing",
+    "version": "3.7.7",
+    "category": "Media",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/500px-Audacity_Logo.svg.png",
+    "downloadUrl": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.7/audacity-macOS-3.7.7-universal.dmg",
+    "homepage": "https://www.audacityteam.org",
+    "license": "GPL-3.0",
+    "author": "Audacity Team",
+    "screenshots": [
+      "https://www.audacityteam.org/screenshot1.png"
+    ]
+}

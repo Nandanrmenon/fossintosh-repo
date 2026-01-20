@@ -1,0 +1,15 @@
+{
+    "id": "blender",
+    "name": "Blender",
+    "description": "Free and open source 3D computer graphics software",
+    "version": "3.4.0",
+    "category": "Graphics",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/960px-Blender_logo_no_text.svg.png",
+    "downloadUrl": "https://mirror.example.com/blender-3.4.0.dmg",
+    "homepage": "https://www.blender.org",
+    "license": "GPL-2.0",
+    "author": "Blender Foundation",
+    "screenshots": [
+      "https://www.blender.org/screenshot1.png"
+    ]
+}

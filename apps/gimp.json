@@ -1,0 +1,15 @@
+{
+    "id": "gimp",
+    "name": "GIMP",
+    "description": "Free and open source image editor",
+    "version": "2.10.30",
+    "category": "Graphics",
+    "icon": "https://www.gimp.org/images/frontpage/wilber-big.png",
+    "downloadUrl": "https://mirror.example.com/gimp-2.10.30.dmg",
+    "homepage": "https://www.gimp.org",
+    "license": "GPL-3.0",
+    "author": "GIMP Development Team",
+    "screenshots": [
+      "https://www.gimp.org/screenshot1.png"
+    ]
+}

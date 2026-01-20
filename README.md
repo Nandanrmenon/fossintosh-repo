@@ -3,7 +3,7 @@ This repository is solely to maintain the list of the free and open source appli
 
 ## How to request app?
 Very simple.
-Just create a pull request with changes onto ```apps.json```.
+Just create a pull request with changes onto ```index.json```.
 
 For example
 ```
