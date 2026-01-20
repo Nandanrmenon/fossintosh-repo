@@ -1,10 +1,6 @@
 [
-  {
-    "id": "vlc",
-    "url": "apps/vlc.json"
-  },
-  {
-    "id": "blender",
-    "url": "apps/blender.json"
-  }
+  "vlc",
+  "blender",
+  "audacity",
+  "gimp"
 ]
