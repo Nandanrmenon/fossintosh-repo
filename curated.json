@@ -3,12 +3,17 @@
     {
       "id": "featured",
       "title": "Featured Apps",
-      "appIds": ["vlc", "blender", "gimp"]
+      "appIds": ["vlc", "blender"]
     },
     {
       "id": "productivity",
       "title": "Productivity",
-      "appIds": ["audacity"]
+      "appIds": ["firefox"]
+    },
+    {
+      "id": "creativity",
+      "title": "Explore your creativity",
+      "appIds": ["blender", "inkscape", "gimp", "blender"]
     }
   ]
 }
