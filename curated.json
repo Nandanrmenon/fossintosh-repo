@@ -8,7 +8,7 @@
     {
       "id": "productivity",
       "title": "Productivity",
-      "appIds": ["firefox"]
+      "appIds": ["firefox", "vscodium"]
     },
     {
       "id": "creativity",

@@ -1,0 +1,15 @@
+{
+    "id": "vscodium",
+    "name": "VSCodium",
+    "description": "Free/Libre Open Source Software Binaries of Visual Studio Code",
+    "version": "1.108.10359",
+    "category": "Develop",
+    "icon": "https://github.com/VSCodium/vscodium/raw/master/icons/stable/codium_cnl.svg",
+    "downloadUrl": "https://github.com/VSCodium/vscodium/releases/download/1.108.10359/VSCodium.x64.1.108.10359.dmg",
+    "homepage": "https://vscodium.com/",
+    "license": "MIT",
+    "author": "The VSCodium team",
+    "screenshots": [
+      "https://vscodium.com/img/vscodium.png"
+    ]
+}
