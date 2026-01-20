@@ -3,7 +3,7 @@
     {
       "id": "featured",
       "title": "Featured Apps",
-      "appIds": ["vlc", "blender"]
+      "appIds": ["vlc", "blender", "signal_desktop"]
     },
     {
       "id": "productivity",

@@ -1,0 +1,15 @@
+{
+    "id": "signal_desktop",
+    "name": "Signal Desktop",
+    "description": "A private messenger for Windows, macOS, and Linux.",
+    "version": "v7.85.0",
+    "category": "Messaging",
+    "icon": "https://signal.org/brand/assets/logo_blue.png",
+    "downloadUrl": "https://updates.signal.org/desktop/signal-desktop-mac-universal-7.85.0.dmg",
+    "homepage": "https://signal.org/",
+    "license": "AGPL-3.0",
+    "author": "Signal",
+    "screenshots": [
+      "https://signal.org/assets/images/screenshots/download-desktop-mac.png"
+    ]
+}
