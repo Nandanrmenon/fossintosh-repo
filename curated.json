@@ -1,0 +1,21 @@
+{
+  "sections": [
+    {
+      "id": "productivity",
+      "title": "Productivity",
+      "description": "Essential tools for getting work done",
+      "apps": [
+        { "id": "vlc", "name": "VLC" },
+        { "id": "blender", "name": "Blender" }
+      ]
+    },
+    {
+      "id": "graphics",
+      "title": "Graphics & Design",
+      "description": "Create and edit visual content",
+      "apps": [
+        { "id": "gimp", "name": "GIMP" }
+      ]
+    }
+  ]
+}
