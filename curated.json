@@ -1,21 +1,14 @@
 {
   "sections": [
     {
-      "id": "productivity",
-      "title": "Productivity",
-      "description": "Essential tools for getting work done",
-      "apps": [
-        { "id": "vlc", "name": "VLC" },
-        { "id": "blender", "name": "Blender" }
-      ]
+      "id": "featured",
+      "title": "Featured Apps",
+      "appIds": ["vlc", "blender", "gimp"]
     },
     {
-      "id": "graphics",
-      "title": "Graphics & Design",
-      "description": "Create and edit visual content",
-      "apps": [
-        { "id": "gimp", "name": "GIMP" }
-      ]
+      "id": "productivity",
+      "title": "Productivity",
+      "appIds": ["audacity"]
     }
   ]
 }
